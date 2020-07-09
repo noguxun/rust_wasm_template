@@ -1,10 +1,11 @@
 # Introduction
-This project shows how to start a plain rust wasm application that could be easily deployed to any web server, no NPM is required. 
-The platform is Ubuntu. 
+This project shows how to start a plain rust wasm application that could be easily deployed to any web server, no npm is required.  
+Verified on Ubuntu and MacOS
 
 # Enviroment Setup
 ```
-# Install build essential packages for rust building 
+# Install build essential packages for rust building on Ubuntu
+# only needed for Ubuntu
 sudo apt install build-essential
 
 # Install rust toolchain
